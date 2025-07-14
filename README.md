@@ -1,6 +1,6 @@
 # Compaqt Portable x86-64 All-in-One SFF PC
 
-![Computer Case Preview](./Pictures/01.jpg)
+![Computer Case Preview](./Pictures/01.png)
 
 ---
 
@@ -95,13 +95,13 @@ The case was originally printed using the BambuLab A1 printer with a 0.6mm harde
 
 ## Gallery
 
-| ![](./Pictures/01.jpg) | ![](./Pictures/02.jpg) | ![](./Pictures/03.jpg) |
+| ![](./Pictures/01.png) | ![](./Pictures/02.png) | ![](./Pictures/03.png) |
 |-------------------------|-------------------------|-------------------------|
-| ![](./Pictures/04.jpg) | ![](./Pictures/05.jpg) | ![](./Pictures/06.jpg) |
-| ![](./Pictures/07.jpg) | ![](./Pictures/08.jpg) | ![](./Pictures/09.jpg) |
-| ![](./Pictures/10.jpg) | ![](./Pictures/11.jpg) | ![](./Pictures/12.jpg) |
-| ![](./Pictures/13.jpg) | ![](./Pictures/14.jpg) | ![](./Pictures/15.jpg) |
-| ![](./Pictures/16.jpg) | ![](./Pictures/17.jpg) | ![](./Pictures/18.jpg) |
+| ![](./Pictures/04.png) | ![](./Pictures/05.png) | ![](./Pictures/06.png) |
+| ![](./Pictures/07.png) | ![](./Pictures/08.png) | ![](./Pictures/09.png) |
+| ![](./Pictures/10.png) | ![](./Pictures/11.png) | ![](./Pictures/12.png) |
+| ![](./Pictures/13.png) | ![](./Pictures/14.png) | ![](./Pictures/15.png) |
+| ![](./Pictures/16.png) | ![](./Pictures/17.png) | ![](./Pictures/18.png) |
 
 ---
 
