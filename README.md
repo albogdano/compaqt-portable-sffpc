@@ -13,7 +13,8 @@ The case is sandwiched with a 16" LCD monitor using a custom 3D-printed bracket.
 
 [Here's the orginal post on Reddit.](https://www.reddit.com/r/cyberDeck/comments/1lx5285/my_portable_retro_allinone_cyberdeck/)
 
-[This project is also published on Printables.com](https://www.printables.com/@AlexanderBog_2916330/models)
+[This project is also published on Printables.com](https://www.printables.com/model/1354903-compaqt-portable-x86-64-all-in-one-sff-pc)
+
 ---
 
 ## Features
@@ -79,6 +80,7 @@ Most of the materials were aqcuired from AliExpress.
 ## Assembly
 
 The case was originally printed using the BambuLab A1 printer with a 0.6mm hardened steel nozzle.
+Note that the 1515 beam frame has been scaled up to 1616 because it was really fragile.
 
 1. **Print all structural components** - use PETG for side panels and beams (1515 profiles) and PLA for cover panels.
 2. **Assemble the 1515 beam frame** (printed with PETG) according to the CAD layout.
@@ -106,3 +108,9 @@ The case was originally printed using the BambuLab A1 printer with a 0.6mm harde
 ---
 
 Feel free to fork, remix, and share! Contributions or suggestions are welcome.
+
+---
+
+## License 
+
+GPL 3.0
